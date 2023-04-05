@@ -1,6 +1,6 @@
 # Udacity SQL notes
 
-This repository contains my notes for Udacity's [SQL for Data Analysis course](https://www.udacity.com/course/sql-for-data-analysis--ud198)
+This repository contains my notes for Udacity's [SQL for Data Analysis course](https://www.udacity.com/course/sql-for-data-analysis--ud198).
 
 #### [SQL Basics](https://github.com/jessicastow/SQL/blob/main/basic_sql.sql)
 - Learn to write common SQL commands including SELECT, FROM, and WHERE
@@ -22,9 +22,9 @@ This repository contains my notes for Udacity's [SQL for Data Analysis course](h
 - Learn to use temp tables to access a table with more than one query
 
 
-[SQL Data Cleaning]()
+#### [SQL Data Cleaning]()
 - Learn how to perform data cleaning using SQL
 
 
-[Window Functions]()
+#### [Window Functions]()
 - Learn to use window functions to tackle more analysis tasks
