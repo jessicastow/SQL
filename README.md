@@ -8,8 +8,8 @@ This repository contains my notes for Udacity's [SQL for Data Analysis course](h
 
 
 #### [SQL Joins](https://github.com/jessicastow/SQL/blob/main/sql_joins.sql)
-- Learn to write `INNER JOIN`s to combine data from multiple tables
-- Learn to write `LEFT JOIN`s to combine data from multiple tables
+- Learn to write `INNER JOIN` statements to combine data from multiple tables
+- Learn to write `LEFT JOIN` statements to combine data from multiple tables
 
 
 #### [SQL Aggregations](https://github.com/jessicastow/SQL/blob/main/sql_aggregations.sql)
